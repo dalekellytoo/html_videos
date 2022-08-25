@@ -2,4 +2,4 @@
 here are some options for html videos
 
 
-The controls of a video depend on the browser and operating system. Not only the html code. I did a variety html codes.
+The controls of a video depend on the browser and operating system. Not only the html code. I did a variety of html codes.
